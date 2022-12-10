@@ -1,8 +1,0 @@
-﻿# UZWALLET Project
- Team Members:
- 1. Timur Urunbaev
- 2. Samandar Kambaraliev
- 3. Asadbek Fazliddinov
- 4. Ravshan Zaripov
- 5. Elbek Erkinboyev
- 6. Bobur Ibragimov
