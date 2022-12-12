@@ -1,7 +1,6 @@
 UZWALLET
 =================
-TEAM MEMBERS
------------------
+###TEAM MEMBERS
 
 **Project Manager**: Timur Urunbaev<br>
 **TEAM MEMBER #1**: Asadbek Fazliddinov<br>
